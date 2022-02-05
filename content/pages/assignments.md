@@ -17,25 +17,177 @@ You will be required to write 3 essays this semester and 1 revision essay, which
 Grading
 -------
 
-| ActivitIES | percentage |
-| --- | --- |
-| Oral Presentations | 15% |
-| Essay 1 (Due session 8) | 15% |
-| Essay 2 (Due session 13) | 20% |
-| Essay 3 (Due session 20) | 20% |
-| Essay Revision (Due session 24) | 20% |
-| Attendance and participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ActivitIES
+{{< thclose >}}
+{{< thopen >}}
+percentage
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1 (Due session 8)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 (Due session 13)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3 (Due session 20)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay Revision (Due session 24)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lateness policy: Essays submitted late will incur a 5-point penalty per day late.
 
 {{< anchor "rubric" >}}{{< /anchor >}}**Rubric for grading essays** 
 --------------------------------------------------------------------
 
-| componentS | points |
-| --- | --- |
-|  {{< br >}}{{< br >}} **Focus:** {{< br >}}{{< br >}} Does the essay have a clear central thesis with a clear introduction providing a road map to the reader? {{< br >}}{{< br >}}  | 20 |
-|  {{< br >}}{{< br >}} **Organization:** {{< br >}}{{< br >}} Does the essay have a clear overall structure? Are arguments and evidence logically sequenced and organized hierarchically? Is each paragraph in the body of the essay organized around a main idea? Are connections drawn among the key points? {{< br >}}{{< br >}}  | 25 |
-|  {{< br >}}{{< br >}} **Content & use of evidence:** {{< br >}}{{< br >}} Does the introduction provide adequate background about the topic and teh related controversies? Are your arguments well developed, with evidence from all the source materials, including class readings and discussions, personal observations and experience? Are counterarguments considered? Does the conclusion draw the essay to a close, highlighting the central points in your argument? Are sources properly cited? {{< br >}}{{< br >}}  | 30 |
-|  {{< br >}}{{< br >}} **Expression:** {{< br >}}{{< br >}} Are ideas and information articulated in clear, fluent prose? {{< br >}}{{< br >}}  | 15 |
-|  {{< br >}}{{< br >}} **Mechanics:** {{< br >}}{{< br >}} Is the essay free of grammatical, punctuation, and spelling errors? {{< br >}}{{< br >}}  | 10 |
-| **Total:** | 100
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+componentS
+{{< thclose >}}
+{{< thopen >}}
+points
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Focus:**
+
+Does the essay have a clear central thesis with a clear introduction providing a road map to the reader?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Organization:**
+
+Does the essay have a clear overall structure? Are arguments and evidence logically sequenced and organized hierarchically? Is each paragraph in the body of the essay organized around a main idea? Are connections drawn among the key points?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Content & use of evidence:**
+
+Does the introduction provide adequate background about the topic and teh related controversies? Are your arguments well developed, with evidence from all the source materials, including class readings and discussions, personal observations and experience? Are counterarguments considered? Does the conclusion draw the essay to a close, highlighting the central points in your argument? Are sources properly cited?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Expression:**
+
+Are ideas and information articulated in clear, fluent prose?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Mechanics:**
+
+Is the essay free of grammatical, punctuation, and spelling errors?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total:**
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

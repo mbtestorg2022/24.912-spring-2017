@@ -79,7 +79,19 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 15% Oral presentations{{< br >}}- 30% Essay 1 (PDF) & Essay 2 (PDF) (15% each){{< br >}}- 40% Essay 3 (PDF) & Revision (20% each){{< br >}}- 15% Attendance and participation{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 15% Oral presentations
+- 30% Essay 1 (PDF) & Essay 2 (PDF) (15% each)
+- 40% Essay 3 (PDF) & Revision (20% each)
+- 15% Attendance and participation
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Instructor Insights on Assessment
 
