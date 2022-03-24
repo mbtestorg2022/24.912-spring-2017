@@ -300,7 +300,7 @@ The other "unthinkable": Vodou as religion
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/043923624X/ref=nosim/mitopencourse-20) Pilkey, Dav. 2001. _Ricky Ricotta’s Mighty Robot vs. the Voodoo Vultures from Venus: Giant Robot Vs. The Voodoo Vultures From Venus._ New York: Blue Sky Press. ISBN: 9780439236249.
 
-Mintz, Sidney, Michel-Rolph Trouillot. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sacred Arts of Haitian Vodou (PDF - 6.6MB).](http://ghettobiennale.org/files/Trouillot_Mintz_LOW.pdf)" 1995. pp. 123–147.
+Mintz, Sidney, Michel-Rolph Trouillot. "[Sacred Arts of Haitian Vodou (PDF - 6.6MB).](http://ghettobiennale.org/files/Trouillot_Mintz_LOW.pdf)" 1995. pp. 123–147.
 
 Hawley, John Stratton. _Saints and Virtues_. Vol. 2. University of California Press, 1987. pp. 144–167.
 
@@ -363,7 +363,7 @@ Peter Dizikes. “[Culture Clash](http://news.mit.edu/2015/book-immigration-deba
 
 Cristina Rodriguez: “[Immigration, Civil Rights and the Formation of the People](http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00229),” _Daedalus_ 142, no. 3 (2013): 228–241.
 
-Nicholas de Genova: “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Legal Production of Mexican/Migrant ‘Illegality’ (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.738.1356&rep=rep1&type=pdf),” _Latino Studies_ 2 (2004): 160–185.
+Nicholas de Genova: “[The Legal Production of Mexican/Migrant ‘Illegality’ (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.738.1356&rep=rep1&type=pdf),” _Latino Studies_ 2 (2004): 160–185.
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262028921/ref=nosim/mitopencourse-20)[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/dream-chasers) Tirman, John. _Dream Chasers: Immigration and the American Backlash_. MIT Press, 2015. pp. 25–60.
 
@@ -515,7 +515,7 @@ Dweck, Carol S. "[Mindsets and Human Nature: Promoting Change in the Middle East
 
 _Optional:_
 
-Carr, Priyanka B., Aneeta Rattan, and Carol S. Dweck. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[3 Implicit Theories Shape Intergroup Relations (PDF)](http://faculty.london.edu/arattan/main/CV_files/Carr%20Rattan%20Dweck%20(2012).pdf)." _Advances in Experimental Social Psychology_ 45 (2012): 127.
+Carr, Priyanka B., Aneeta Rattan, and Carol S. Dweck. "[3 Implicit Theories Shape Intergroup Relations (PDF)](http://faculty.london.edu/arattan/main/CV_files/Carr%20Rattan%20Dweck%20(2012).pdf)." _Advances in Experimental Social Psychology_ 45 (2012): 127.
 
 
 {{< tdclose >}}
