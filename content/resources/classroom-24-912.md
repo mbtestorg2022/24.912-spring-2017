@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
 resourcetype: Image
 title: classroom-24-912.jpg
 uid: d4a2d6c3-5249-d586-dcfc-ed6df9a839fc
